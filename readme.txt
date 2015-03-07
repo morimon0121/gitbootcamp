@@ -7,4 +7,3 @@
 春日部ファイヤー！！
 rebase
 rerebase
-ブランチリベース
