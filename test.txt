@@ -4,3 +4,4 @@ pomo
 aiueo
 kakikukeko
 rebase
+もう一度rebase
