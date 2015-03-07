@@ -1,6 +1,1 @@
-﻿hoho
-testcommit
-pomo
-aiueo
-kakikukeko
-rebase
+﻿test
