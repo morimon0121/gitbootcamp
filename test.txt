@@ -1,5 +1,6 @@
-﻿hello, sourcetree
+﻿hello, sourcetre
 おはようございます
 さようなら
 また明日
 お疲れ様です。
+おはようございます
